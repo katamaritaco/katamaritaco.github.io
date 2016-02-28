@@ -259,7 +259,7 @@ body {
 
 
 a:link {
-    text-decoration: none;
+    text-decoration: underline;
     color: #8C008C;
     /*font-size: 1.5rem;*/
 }
