@@ -77,6 +77,11 @@ body {
 	margin-bottom: 0px;
 }
 
+.aboutme-section {
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+
 #about p {
 	font-size: 17.5px;
 }
